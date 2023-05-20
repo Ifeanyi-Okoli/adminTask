@@ -1,0 +1,2 @@
+# adminTask
+Understanding Django Admin
